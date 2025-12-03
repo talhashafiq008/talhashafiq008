@@ -191,19 +191,19 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-<!-- GitHub Stats Card -->
-
-[![Talha Shafiq GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhashafiq008&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/talhashafiq008)
+<a href="https://github.com/talhashafiq008">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhashafiq008&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Talha Shafiq GitHub Stats"/>
+</a>
 
 <!-- Top Languages Card -->
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhashafiq008&layout=compact&langs_count=8&theme=algolia)](https://github.com/talhashafiq008)
+<a href="https://github.com/talhashafiq008">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhashafiq008&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+</a>
 
 <!-- Streak Stats -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=talhashafiq008&theme=merko&hide_border=true&show_icons=true&locale=en&layout=demo)](https://github.com/talhashafiq008)
-
-
+<a href="https://github.com/talhashafiq008">
+  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?username=talhashafiq008&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="GitHub Streak"/>
+</a>
 </p>
 </p> <hr>
 
