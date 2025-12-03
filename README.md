@@ -193,7 +193,7 @@
 <p align="center">
 <!-- GitHub Stats Card -->
 <a href="https://github.com/talhashafiq008">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhashafiq008&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Muhammad Talha Shafiq GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhashafiq008&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Talha Shafiq GitHub Stats"/>
 </a>
 
 <!-- Top Languages Card -->
@@ -203,8 +203,9 @@
 
 <!-- Streak Stats -->
 <a href="https://github.com/talhashafiq008">
-  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?username=talhashafiq008&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="GitHub Streak"/>
+  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=talhashafiq008&theme=merko&hide_border=true" alt="GitHub Streak"/>
 </a>
+
 
 </p>
 </p> <hr>
