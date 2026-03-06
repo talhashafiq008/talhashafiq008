@@ -35,10 +35,10 @@ I aim to bridge technology and business goals by creating impactful products tha
 <img align="right" alt="GIF" src="https://github.com/talhashafiq008/talhashafiq008/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">🔭 Currently</h3>
-<p>- 💼 Working as Software Engineer @ techBean (Remote – Australia)</p>
-<p>- 📚 Deepening expertise in Data Structures & Algorithms</p>
-<p>- 🤖 Exploring Machine Learning applications & advanced AI integrations</p>
-<p>- 🛠️ Building production-grade SaaS platforms and freelance client solutions</p>
+<p> - 💼 Working as Software Engineer @ techBean (Australia)</p>
+<p> - 🤖 Building & shipping AI-powered SaaS platforms with OpenAI, Vapi & ElevenLabs</p>
+<p> - 🏗️ Architecting multi-tenant systems with NestJS, Redis, Bull & event-driven design</p>
+<p>  - 🌍 Exploring DevOps best practices — Docker, GitHub Actions CI/CD & cloud infrastructure</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
