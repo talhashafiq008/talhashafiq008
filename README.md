@@ -235,6 +235,7 @@ I aim to bridge technology and business goals by creating impactful products tha
 
 ---
 <br>
+
 ## 💼 Professional Experience
 
 ### 🏢 Software Engineer — techBean *(Remote – Australia)*
