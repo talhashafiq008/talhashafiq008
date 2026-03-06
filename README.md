@@ -12,7 +12,7 @@
 <h3 align="center">🚀 Full-Stack Software Engineer | MERN Stack | React Native | AI & SaaS Platforms</h3>
 <p align="center">📍 Lahore, Punjab, Pakistan &nbsp;|&nbsp; 📧 talhashafiqch@gmail.com &nbsp;|&nbsp; 📱 +92 307 1601809</p>
 
----
+
 
 ## 💼 What I Do
 
@@ -23,13 +23,11 @@
 - **Payments & Billing** — Stripe, Paystack, Authorize.net, Apple Pay, Google Pay
 - **Agile Development** — Sprint planning, code reviews, cross-functional team collaboration
 
----
 
 
 <img align="right" alt="GIF" src="https://github.com/talhashafiq008/talhashafiq008/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br>
 
-## 🔭 Currently
-
+# 🔭 Currently
 - 💼 Working as **Software Engineer @ techBean** (Remote – Australia)
 - 📚 Deepening expertise in **Data Structures & Algorithms**
 - 🤖 Exploring **Machine Learning** applications & advanced AI integrations
