@@ -160,3 +160,143 @@ I aim to bridge technology and business goals by creating impactful products tha
 </p>
 
 
+🚀 Featured Projects
+<div align="center">
+  <h3>💼 Production Applications</h3>
+</div>
+🤖 Ordibl (Replyi) – AI Voice SaaS Platform
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</div>
+✨ Key Features:
+
+🎙️ Multi-tenant AI voice platform with inbound & outbound call agents via Vapi
+⚡ Async processing with Redis + Bull for call logs, billing & event handling
+💳 Wallet + subscription billing with Stripe & Paystack (webhook-driven)
+🔗 CRM OAuth integrations & knowledge base upload system (AWS S3)
+🚀 Deployed via GitHub Actions, PM2, and Nginx on production server
+
+
+🛒 Multi-Store E-Commerce Platform (Domain-Based SaaS)
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" />
+</div>
+✨ Key Features:
+
+🏪 Domain-driven multi-store architecture — each domain dynamically resolves to a specific store
+🛍️ Full checkout with shipping/tax calculation and Stripe webhook confirmation
+🧾 Admin panel with POS, SEO tools, shipping zones, coupon engine & catalog management
+🌍 Multi-language support, wallet, refund & commission system
+🔐 JWT-based auth with protected routes and guest checkout logic
+
+
+⚖️ AskArion – AI Astrology SaaS Platform
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</div>
+✨ Key Features:
+
+🔮 AI-powered natal chart + real-time transit interpretation
+💰 Freemium credit system with Stripe subscription tiers & webhook sync
+🔒 Supabase backend with Row-Level Security and Edge Functions
+🤝 Relationship compatibility module with AI classification & email invites
+⚡ Optimized daily forecast generation with caching to reduce API costs
+
+
+📧 Cheap Verifier – Email Verification SaaS
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</div>
+✨ Key Features:
+
+📂 CSV/Excel upload or API-based validation: format, MX, SMTP, catch-all & premium checks
+⚡ High-concurrency validation engine using dedicated service with Bull + Redis
+📊 Multi-role system: user dashboard, admin panel & customer-service agent chat
+🔄 Real-time task progress via Socket.IO; file storage on AWS S3
+💳 Stripe credit purchases, coupons, referral earnings & token-based consumption
+
+
+💼 Professional Experience
+Software Engineer @ techBean (Remote – Australia)
+03/2025 – Present
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-Backend-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-36BCF7?style=for-the-badge" />
+</div>
+🎯 Key Responsibilities:
+
+🚀 Design and develop scalable full-stack applications using React.js, Next.js, Node.js, and NestJS
+🔐 Build secure REST APIs with authentication, RBAC, and third-party integrations
+⚡ Optimize database queries and API performance across PostgreSQL & MongoDB
+🧩 Implement reusable UI components for scalable frontend architecture
+🤝 Collaborate in agile sprints for planning, feature delivery, and code reviews
+
+
+Full-Stack Developer @ Verdant Soft (Lahore)
+02/2025 – 04/2025
+🎯 Key Responsibilities:
+
+🏗️ Architected Real-Time Auction Platform using NestJS, WebSockets, PostgreSQL & Prisma ORM
+🔒 Implemented optimistic locking for concurrent bid processing
+🏥 Built Healthcare Management System with appointment scheduling & Stripe subscriptions
+📊 Enhanced dashboards with Vue.js by integrating backend APIs
+
+
+Full-Stack MERN Developer @ Ezeelogix (Lahore)
+07/2024 – 02/2025
+🎯 Key Responsibilities:
+
+🛒 Developed production-level eCommerce platform for U.S.-based tire & wheel businesses
+💳 Integrated Stripe, Snap, Affirm, and FedEx shipping APIs
+📱 Developed cross-platform mobile applications using React Native
+☁️ Optimized AWS deployment and improved SEO performance
+
+
+🎯 Core Competencies
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🌐</b><br/><sub>Full Stack<br/>Development</sub></td>
+      <td align="center"><b>🤖</b><br/><sub>AI & SaaS<br/>Platforms</sub></td>
+      <td align="center"><b>📱</b><br/><sub>Mobile<br/>Development</sub></td>
+      <td align="center"><b>☁️</b><br/><sub>Cloud &<br/>DevOps</sub></td>
+      <td align="center"><b>💳</b><br/><sub>Payments &<br/>Billing</sub></td>
+      <td align="center"><b>⚡</b><br/><sub>Real-Time<br/>Systems</sub></td>
+    </tr>
+  </table>
+</div>
+
+📈 Impact Metrics
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🚀</b><br/><sub><strong>23+</strong><br/>Projects Delivered</sub></td>
+      <td align="center"><b>🤖</b><br/><sub><strong>5+</strong><br/>AI SaaS Platforms</sub></td>
+      <td align="center"><b>📱</b><br/><sub><strong>4+</strong><br/>Mobile Apps</sub></td>
+      <td align="center"><b>⭐</b><br/><sub><strong>2134</strong><br/>CodeChef Rating</sub></td>
+      <td align="center"><b>☁️</b><br/><sub><strong>4+</strong><br/>Years Experience</sub></td>
+      <td align="center"><b>🌍</b><br/><sub><strong>3+</strong><br/>Countries Served</sub></td>
+    </tr>
+  </table>
+</div>
+
