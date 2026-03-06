@@ -28,12 +28,13 @@
 
 <img align="right" alt="GIF" src="https://github.com/talhashafiq008/talhashafiq008/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br>
 
-<p>🔭 Currently</p>
-  <ul>
-    <li>Working on <strong>full-stack projects and freelance client solutions</strong></li>
-    <li>Learning <strong>Data Structures & Algorithms</strong></li>
-    <li>Exploring <strong>Machine Learning applications</strong></li>
-  </ul>
+## 🔭 Currently
+
+- 💼 Working as **Software Engineer @ techBean** (Remote – Australia)
+- 📚 Deepening expertise in **Data Structures & Algorithms**
+- 🤖 Exploring **Machine Learning** applications & advanced AI integrations
+- 🛠️ Building production-grade SaaS platforms and freelance client solutions
+
 
   <p>📫 Connect with Me</p>
   <ul>
