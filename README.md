@@ -35,9 +35,9 @@ I aim to bridge technology and business goals by creating impactful products tha
 <img align="right" alt="GIF" src="https://github.com/talhashafiq008/talhashafiq008/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">🔭 Currently</h3>
-<p>- 💼 Working as **Software Engineer @ techBean** (Remote – Australia)</p>
-<p>- 📚 Deepening expertise in **Data Structures & Algorithms**</p>
-<p>- 🤖 Exploring **Machine Learning** applications & advanced AI integrations</p>
+<p>- 💼 Working as Software Engineer @ techBean (Remote – Australia)</p>
+<p>- 📚 Deepening expertise in Data Structures & Algorithms</p>
+<p>- 🤖 Exploring Machine Learning applications & advanced AI integrations</p>
 <p>- 🛠️ Building production-grade SaaS platforms and freelance client solutions</p>
 
 <h3 align="left">Connect with me:</h3>
@@ -134,6 +134,14 @@ I aim to bridge technology and business goals by creating impactful products tha
     </clipboard-copy>
   </div></div> <br> <br>
 
+  ## 🏆 Achievements & Certifications
+
+- ✅ **React.js Assessment Cleared** — HackerRank
+- ⭐ **Competitive Programming Rating 2134** — CodeChef
+- 📜 Modern JavaScript ES6 — Coursera
+- 📜 React Hooks — LinkedIn Learning
+- 📜 Web Design (HTML, CSS, Bootstrap) — Udemy
+
 
 ## 📊 GitHub Analytics
 
@@ -150,13 +158,4 @@ I aim to bridge technology and business goals by creating impactful products tha
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhashafiq008&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
----
-
-## 🏆 Achievements & Certifications
-
-- ✅ **React.js Assessment Cleared** — HackerRank
-- ⭐ **Competitive Programming Rating 2134** — CodeChef
-- 📜 Modern JavaScript ES6 — Coursera
-- 📜 React Hooks — LinkedIn Learning
-- 📜 Web Design (HTML, CSS, Bootstrap) — Udemy
 
