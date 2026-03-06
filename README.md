@@ -257,7 +257,7 @@ I aim to bridge technology and business goals by creating impactful products tha
 - 🤝 Collaborated with product and design teams for feature implementation & scalable architecture
 - 🚀 Deployed production-ready builds ensuring system reliability
 
-- 
+
 ### 🏢 Full-Stack Developer — Verdant Soft *(Lahore)*
 **11/2024 – 02/2025**
 
