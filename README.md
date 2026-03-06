@@ -159,7 +159,6 @@ I aim to bridge technology and business goals by creating impactful products tha
 
 <div align="center"><h3>💼 Production Applications</h3></div>
 
----
 
 ### 🤖 Ordibl (Replyi) – AI Voice SaaS Platform
 
@@ -235,7 +234,7 @@ I aim to bridge technology and business goals by creating impactful products tha
 - 💳 Stripe credit purchases, coupons, referral earnings & token-based consumption
 
 ---
-
+<br><br>
 ## 💼 Professional Experience
 
 ### 🏢 Software Engineer — techBean *(Remote – Australia)*
@@ -247,7 +246,6 @@ I aim to bridge technology and business goals by creating impactful products tha
 - 🧩 Implement reusable UI component libraries for scalable frontend architecture
 - 🤝 Collaborate in agile sprints for planning, feature delivery & code reviews
 
----
 
 ### 🏢 Full-Stack Developer — Verdant Soft *(Lahore)*
 **02/2025 – 04/2025**
@@ -257,7 +255,6 @@ I aim to bridge technology and business goals by creating impactful products tha
 - 🏥 Built Healthcare Management System with appointment scheduling & Stripe subscriptions
 - 📊 Enhanced dashboards with Vue.js by integrating backend APIs
 
----
 
 ### 🏢 Full-Stack MERN Developer — Ezeelogix *(Lahore)*
 **07/2024 – 02/2025**
@@ -284,7 +281,6 @@ I aim to bridge technology and business goals by creating impactful products tha
   </table>
 </div>
 
----
 
 ## 📈 Impact Metrics
 
@@ -301,5 +297,4 @@ I aim to bridge technology and business goals by creating impactful products tha
   </table>
 </div>
 
----
 
