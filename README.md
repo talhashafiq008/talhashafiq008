@@ -160,4 +160,3 @@ I aim to bridge technology and business goals by creating impactful products tha
 - 📜 React Hooks — LinkedIn Learning
 - 📜 Web Design (HTML, CSS, Bootstrap) — Udemy
 
----
