@@ -234,7 +234,7 @@ I aim to bridge technology and business goals by creating impactful products tha
 - 💳 Stripe credit purchases, coupons, referral earnings & token-based consumption
 
 ---
-<br><br>
+<br>
 ## 💼 Professional Experience
 
 ### 🏢 Software Engineer — techBean *(Remote – Australia)*
