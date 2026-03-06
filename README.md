@@ -23,7 +23,7 @@
 - **Payments & Billing** — Stripe, Paystack, Authorize.net, Apple Pay, Google Pay
 - **Agile Development** — Sprint planning, code reviews, cross-functional team collaboration
 
-<br><br>
+<br>
 
 <img align="right" alt="GIF" src="https://github.com/talhashafiq008/talhashafiq008/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br>
 
