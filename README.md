@@ -11,14 +11,16 @@
 <h1 align="center">Hello 👋, I'm Talha Shafiq</h1>
 <h3 align="center">🚀 Full-Stack Software Engineer | MERN Stack | React Native | AI & SaaS Platforms</h3>
 <p align="center">📍 Lahore, Punjab, Pakistan &nbsp;|&nbsp; 📧 talhashafiqch@gmail.com &nbsp;|&nbsp; 📱 +92 307 1601809</p>
-
 <br>
+
+
 ## 💡 About Me
 
 I'm a Full-Stack Software Engineer with **4+ years of experience** building scalable SaaS platforms, AI-powered applications, multi-tenant systems, real-time apps, and cross-platform mobile solutions. My expertise spans the full product lifecycle — from architecture and development to deployment and DevOps.
 
 I aim to bridge technology and business goals by creating impactful products that deliver real value. Whether freelance, client-based, or in-house development, my focus is always on **clarity, efficiency, and innovation**.
 <br><br>
+
 ## 💼 What I Do
 
 - **Full-Stack Web & Mobile Development** — React.js, Next.js, Node.js, NestJS, React Native, Expo
