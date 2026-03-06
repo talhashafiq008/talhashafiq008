@@ -13,6 +13,11 @@
 <p align="center">📍 Lahore, Punjab, Pakistan &nbsp;|&nbsp; 📧 talhashafiqch@gmail.com &nbsp;|&nbsp; 📱 +92 307 1601809</p>
 
 
+## 💡 About Me
+
+I'm a Full-Stack Software Engineer with **4+ years of experience** building scalable SaaS platforms, AI-powered applications, multi-tenant systems, real-time apps, and cross-platform mobile solutions. My expertise spans the full product lifecycle — from architecture and development to deployment and DevOps.
+
+I aim to bridge technology and business goals by creating impactful products that deliver real value. Whether freelance, client-based, or in-house development, my focus is always on **clarity, efficiency, and innovation**.
 
 ## 💼 What I Do
 
