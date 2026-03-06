@@ -248,8 +248,18 @@ I aim to bridge technology and business goals by creating impactful products tha
 - 🤝 Collaborate in agile sprints for planning, feature delivery & code reviews
 
 
+### 🏢 Associate Software Engineer — DEVWOLFZ LLC *(Lahore)*
+**03/2024 – 07/2025**
+
+- 🌐 Developed full-stack web applications using React.js, Node.js & MongoDB
+- 🔐 Built and maintained secure REST APIs with JWT authentication
+- ⚡ Improved application performance via debugging, refactoring & query optimization
+- 🤝 Collaborated with product and design teams for feature implementation & scalable architecture
+- 🚀 Deployed production-ready builds ensuring system reliability
+
+- 
 ### 🏢 Full-Stack Developer — Verdant Soft *(Lahore)*
-**02/2025 – 04/2025**
+**11/2024 – 02/2025**
 
 - 🏗️ Architected Real-Time Auction Platform using NestJS, WebSockets, PostgreSQL & Prisma ORM
 - 🔒 Implemented optimistic locking for safe concurrent bid processing
@@ -258,7 +268,7 @@ I aim to bridge technology and business goals by creating impactful products tha
 
 
 ### 🏢 Full-Stack MERN Developer — Ezeelogix *(Lahore)*
-**07/2024 – 02/2025**
+**07/2023 – 11/2024**
 
 - 🛒 Developed production-level eCommerce platform for U.S.-based tire & wheel businesses
 - 💳 Integrated Stripe, Snap, Affirm payment gateways and FedEx shipping APIs
