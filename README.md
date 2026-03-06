@@ -23,7 +23,7 @@
 - **Payments & Billing** — Stripe, Paystack, Authorize.net, Apple Pay, Google Pay
 - **Agile Development** — Sprint planning, code reviews, cross-functional team collaboration
 
-
+<br><br>
 
 <img align="right" alt="GIF" src="https://github.com/talhashafiq008/talhashafiq008/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br>
 
@@ -34,7 +34,7 @@
 - 🛠️ Building production-grade SaaS platforms and freelance client solutions
 
 
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma00892831" height="30" width="40" /></a>
