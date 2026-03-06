@@ -8,17 +8,23 @@
 </p>
 
 
-<h1 align="center">Hello <img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/hello.gif" style="width:40px; display:inline-block;" data-target="animated-image.originalImage">, I'm Talha Shafiq</h1>
+<h1 align="center">Hello 👋, I'm Talha Shafiq</h1>
+<h3 align="center">🚀 Full-Stack Software Engineer | MERN Stack | React Native | AI & SaaS Platforms</h3>
+<p align="center">📍 Lahore, Punjab, Pakistan &nbsp;|&nbsp; 📧 talhashafiqch@gmail.com &nbsp;|&nbsp; 📱 +92 307 1601809</p>
 
-<h3 align="center">A Full-Stack Software Engineer from Lahore, Pakistan</h3>
+---
 
-<h2>💼 What I Do</h2>
-  <ul>
-    <li>Full-Stack Web & Mobile Development: <strong>React, Next.js, Node.js, Express.js, NestJS, React Native</strong></li>
-    <li>REST & GraphQL APIs, server-side rendering, and third-party integrations: <strong>Stripe, Sanity CMS</strong></li>
-    <li>AI & Machine Learning integration for smart applications</li>
-    <li>Agile project management and mentoring teams</li>
-  </ul>
+## 💼 What I Do
+
+- **Full-Stack Web & Mobile Development** — React.js, Next.js, Node.js, NestJS, React Native, Expo
+- **Scalable SaaS & AI-Powered Platforms** — Multi-tenant systems, AI integrations, subscription billing
+- **REST & GraphQL APIs** — Server-side rendering, WebSockets, event-driven architectures
+- **DevOps & Cloud** — Docker, GitHub Actions, AWS, Redis, PM2, Nginx, CI/CD pipelines
+- **Payments & Billing** — Stripe, Paystack, Authorize.net, Apple Pay, Google Pay
+- **Agile Development** — Sprint planning, code reviews, cross-functional team collaboration
+
+---
+
 
 <img align="right" alt="GIF" src="https://github.com/talhashafiq008/talhashafiq008/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br>
 
