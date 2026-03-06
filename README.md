@@ -132,7 +132,7 @@ I aim to bridge technology and business goals by creating impactful products tha
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
     </clipboard-copy>
-  </div></div> <br> <br>
+  </div></div> <br> 
 
   ## 🏆 Achievements & Certifications
 
@@ -141,7 +141,7 @@ I aim to bridge technology and business goals by creating impactful products tha
 - 📜 Modern JavaScript ES6 — Coursera
 - 📜 React Hooks — LinkedIn Learning
 - 📜 Web Design (HTML, CSS, Bootstrap) — Udemy
-
+<br> <br> 
 
 ## 📊 GitHub Analytics
 
