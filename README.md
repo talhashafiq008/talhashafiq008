@@ -118,13 +118,13 @@ I aim to bridge technology and business goals by creating impactful products tha
                 <span class="pl-s1">codeQuality</span>++;
             }
         }
-<span class="pl-c">// - Talha Ch</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+<span class="pl-c">// - Talha Shafiq</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="if (codeWorking){
             while (codeQuality < perfectCode){
                 codeQuality++;
             }
         }
-// - Talha Ch" tabindex="0" role="button">
+// - Talha Shafiq" tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -134,25 +134,30 @@ I aim to bridge technology and business goals by creating impactful products tha
     </clipboard-copy>
   </div></div> <br> <br>
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/talhashafiq008">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhashafiq008&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Talha Shafiq GitHub Stats"/>
-</a>
-
-<!-- Top Languages Card -->
-<a href="https://github.com/talhashafiq008">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhashafiq008&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
-</a>
-
-<!-- Streak Stats -->
-<a href="https://github.com/talhashafiq008">
-  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?username=talhashafiq008&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="GitHub Streak"/>
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhashafiq008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Talha's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhashafiq008&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
-</p> <hr>
 
-<h2 dir="auto">Activity Graph</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=talhashafiq008&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-[![CH TALHA github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=talhashafiq008&theme=github-compact)](https://github.com/talhashafiq008)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhashafiq008&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- ✅ **React.js Assessment Cleared** — HackerRank
+- ⭐ **Competitive Programming Rating 2134** — CodeChef
+- 📜 Modern JavaScript ES6 — Coursera
+- 📜 React Hooks — LinkedIn Learning
+- 📜 Web Design (HTML, CSS, Bootstrap) — Udemy
+
+---
