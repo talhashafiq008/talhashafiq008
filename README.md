@@ -146,8 +146,9 @@ I aim to bridge technology and business goals by creating impactful products tha
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhashafiq008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Talha's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhashafiq008&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhashafiq008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Talha's GitHub Stats"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhashafiq008&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -155,7 +156,7 @@ I aim to bridge technology and business goals by creating impactful products tha
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhashafiq008&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhashafiq008&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 
