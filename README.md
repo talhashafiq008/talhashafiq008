@@ -51,122 +51,69 @@ I aim to bridge technology and business goals by creating impactful products tha
 <a href="https://stackoverflow.com/users/16414158/talha-shafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-talha" height="30" width="40" /></a>
 </p><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<table width="100">
-  <tr>
-  <td align='center' width="120">
-    <a href="https://github.com/talhashafiq008/HTML-Web-Development-"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/html5-original-wordmark.jpg"></a>
-    </td>
-    <td align='center' width="120">
-   <a href="https://github.com/talhashafiq008/CSS-Web-Development-"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/css3-original-wordmark.jpg"></a>
-    </td>
-    <td align='center' width="120">
-  <a href="https://github.com/talhashafiq008/BootStrap"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/bootstrap-plain-wordmark.jpg"></a>
-    </td>
-     <td align='center' width="120">
-  <a href="https://github.com/talhashafiq008/TailWind-CSS"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/tailwinddd.png"></a>
-    </td>
-      <td align='center' width="120">
-<a href="https://github.com/talhashafiq008/sass"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/sass.png" ></a>
-    </td>
-    <td align='center' width="120">
-   <a  href="https://github.com/talhashafiq008/js"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/javascript-original.jpg"></a>
-    </td>
-     <td align='center' width="120">
-   <a href="https://github.com/talhashafiq008/jQuery"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/jQuery.png"></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align='center' width="120">
-   <a href="https://github.com/talhashafiq008/jQuery"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/jQuery.png"></a>
-    </td>
-    <td align='center' width="120">
- <a href="https://github.com/talhashafiq008/typeScript"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/typeScript.png"></a>
-    </td>
-     <td align='center' width="120">
-  <a href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/contentful.png"></a>
-    </td>
-      <td align='center' width="120">
-<a href="https://github.com/talhashafiq008/react-js"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/react-1.png"></a>
-    </td>
-     <td align='center' width="120">
-   <a  href="https://github.com/talhashafiq008/React_MUI"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/material-ui.png"></a>
-    </td>
-    <td align='center' width="120">
-   <a href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/chakra.png"></a>
-    </td>
-    <td align='center' width="120">
- <a href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/redux.png"></a>
-    </td>
-  </tr>
 
 
-   <tr>
-    <td align='center' width="120">
-   <a  href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/threejs.png"></a>
-    </td>
-    <td align='center' width="120">
-   <a href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/auth-1.png"></a>
-    </td>
-      <td align='center' width="120">
-   <a  href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/next-js.png"></a>
-    </td>
-      <td align='center' width="120">
-   <a  href="https://github.com/talhashafiq008/node.js"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/node.png"></a>
-    </td>
-    <td align='center' width="120">
-   <a href="https://github.com/talhashafiq008/express.js"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/express-1.png"></a>
-    </td>
-    <td align='center' width="120">
- <a href="https://github.com/talhashafiq008/mongodb"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/mongobd.png"></a>
-    </td>
-     <td align='center' width="120">
-  <a href="https://github.com/talhashafiq008/SQL-SERVER"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/sql.png"></a>
-    </td>
-  </tr>
+---
+
+## 🛠️ Languages & Tools
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### 🗄️ Databases & ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
+![Google Vision](https://img.shields.io/badge/Google_Vision_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-101010?style=for-the-badge&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 💳 Payments & Integrations
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+---
 
 
-   <tr>
-     <td align='center' width="120">
-<a href="https://github.com/talhashafiq008/c-programming"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/c-original.jpg"></a>
-    </td>
-      <td align='center' width="120">
-  <a href="https://github.com/talhashafiq008/Data-Structure-Algorithms/tree/main/DATA%20STRUCTURE/Array%20in%20DSA"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/cplusplus-original.jpg"></a>
-    </td>
-      <td align='center' width="120">
- <a href="https://github.com/talhashafiq008/JAVA"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/java-original.jpg"></a>
-    </td>
-      <td align='center' width="120">
-  <a href="https://github.com/talhashafiq008/Python"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/python-original.jpg"></a>
-    </td>
-      <td align='center' width="120">
-   <a href="https://github.com/talhashafiq008"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/git-scm-icon.jpg"></a>
-    </td>
-      <td align='center' width="120">
-<a href="#"><img src="https://github.com/talhashafiq008/talhashafiq008/blob/main/images/firebase-icon.jpg"></a>
-    </td>
-  </tr>
-
-</table>
-
- <br><br> <br>
-
- <h2><i>⚙️ Tools & Technologies </i></h2>
- <p>
-⚙️ Programming Languages: JavaScript (ES6+) || TypeScript<br>
-⚙️ Frameworks/Libraries: React || JQuery || Next.js || Next Auth.js || React Router || Material UI || jQuery<br>
-⚙️ Back-end Technologies: Node.js || Express.js || Nest js || Stripe || Sanity CMS<br>
-⚙️ Mobile Development: React Native || Expo<br>
-⚙️ State Management: Redux || Context API<br>
-⚙️ Testing: React Testing Library<br>
-⚙️ API Integrations: JSON || REST API || GraphQL<br>
-⚙️ Databases: MongoDB || My SQL || PostgreSQL || Supabase || Firebase<br>
-⚙️ Build Tools: Webpack<br>
-⚙️ Version Control: Github || Gitlab || Bitbucket<br>
-⚙️ Operating Systems: Linux || Windows || MacOS<br>
-⚙️ Markup and Styling: HTML || CSS || SCSS || Tailwind || Styled Components || Bootstrap || shadCN<br>
- </p>
  <br><br> <br>
 <div class="highlight highlight-source-java notranslate position-relative overflow-auto"><pre><span class="pl-k">if</span> (<span class="pl-s1">codeWorking</span>){
             <span class="pl-k">while</span> (<span class="pl-s1">codeQuality</span> &lt; <span class="pl-s1">perfectCode</span>){
