@@ -53,8 +53,6 @@ I aim to bridge technology and business goals by creating impactful products tha
 
 
 
----
-
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
@@ -114,7 +112,7 @@ I aim to bridge technology and business goals by creating impactful products tha
 ---
 
 
- <br><br> <br>
+ <br>
 <div class="highlight highlight-source-java notranslate position-relative overflow-auto"><pre><span class="pl-k">if</span> (<span class="pl-s1">codeWorking</span>){
             <span class="pl-k">while</span> (<span class="pl-s1">codeQuality</span> &lt; <span class="pl-s1">perfectCode</span>){
                 <span class="pl-s1">codeQuality</span>++;
