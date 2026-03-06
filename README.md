@@ -25,7 +25,7 @@
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/talhashafiq008/talhashafiq008/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage"><br>
+<img align="right" alt="GIF" src="https://github.com/talhashafiq008/talhashafiq008/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">🔭 Currently</h3>
 <p>- 💼 Working as **Software Engineer @ techBean** (Remote – Australia)</p>
