@@ -249,7 +249,7 @@ I aim to bridge technology and business goals by creating impactful products tha
 
 
 ### 🏢 Associate Software Engineer — DEVWOLFZ LLC *(Lahore)*
-**03/2024 – 07/2025**
+**03/2025 – 07/2025**
 
 - 🌐 Developed full-stack web applications using React.js, Node.js & MongoDB
 - 🔐 Built and maintained secure REST APIs with JWT authentication
