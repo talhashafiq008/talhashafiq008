@@ -9,26 +9,27 @@
 
 
 <h1 align="center">Hello 👋, I'm Talha Shafiq</h1>
-<h3 align="center">🚀 Full-Stack Software Engineer | MERN Stack | React Native | AI & SaaS Platforms</h3>
+<h3 align="center">🚀 Full-Stack Engineer | Web Scraping & Anti-Bot Bypass | B2B Lead Gen & Data Enrichment | AI Agents & Automation</h3>
 <p align="center">📍 Lahore, Punjab, Pakistan &nbsp;|&nbsp; 📧 talhashafiqch@gmail.com &nbsp;|&nbsp; 📱 +92 307 1601809</p>
 <br>
 
 
 ## 💡 About Me
 
-I'm a Full-Stack Software Engineer with **4+ years of experience** building scalable SaaS platforms, AI-powered applications, multi-tenant systems, real-time apps, and cross-platform mobile solutions. My expertise spans the full product lifecycle — from architecture and development to deployment and DevOps.
+I'm a Full-Stack Engineer with **4+ years of experience** building custom web scrapers, B2B data pipelines, AI-powered applications, and scalable SaaS platforms. From Cloudflare bypass to deployed product — **1,800+ websites scraped in production**.
 
-I aim to bridge technology and business goals by creating impactful products that deliver real value. Whether freelance, client-based, or in-house development, my focus is always on **clarity, efficiency, and innovation**.
+I extract structured data from any website on the internet and build the full-stack product that runs on top of it. Most engineers offer scraping OR development. I deliver both: raw data to deployed product.
 <br><br>
 
 ## 💼 What I Do
 
+- **Web Scraping & Anti-Bot Bypass** — Scrapy, Playwright, Selenium, TLS fingerprinting, Cloudflare · DataDome · Akamai · PerimeterX bypass — no third-party services
+- **B2B Lead Generation & Data Enrichment** — Clay workflows, LinkedIn extraction, Apollo · Prospeo · Hunter pipelines, email verification
 - **Full-Stack Web & Mobile Development** — React.js, Next.js, Node.js, NestJS, React Native, Expo
 - **Scalable SaaS & AI-Powered Platforms** — Multi-tenant systems, AI integrations, subscription billing
-- **REST & GraphQL APIs** — Server-side rendering, WebSockets, event-driven architectures
+- **AI Agents & Automation** — CrewAI, LangGraph, Claude Agent SDK, MCP services, LangChain pipelines
 - **DevOps & Cloud** — Docker, GitHub Actions, AWS, Redis, PM2, Nginx, CI/CD pipelines
 - **Payments & Billing** — Stripe, Paystack, Authorize.net, Apple Pay, Google Pay
-- **Agile Development** — Sprint planning, code reviews, cross-functional team collaboration
 
 <br>
 
@@ -36,9 +37,9 @@ I aim to bridge technology and business goals by creating impactful products tha
 
 <h3 align="left">🔭 Currently</h3>
 <p> - 💼 Working as Software Engineer @ techBean (Australia)</p>
+<p> - 🕷️ Building B2B lead enrichment pipelines and stealth scrapers for pharmaceutical and GTM clients</p>
 <p> - 🤖 Building & shipping AI-powered SaaS platforms with OpenAI, Vapi & ElevenLabs</p>
 <p> - 🏗️ Architecting multi-tenant systems with NestJS, Redis, Bull & event-driven design</p>
-<p>  - 🌍 Exploring DevOps best practices — Docker, GitHub Actions CI/CD & cloud infrastructure</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -93,8 +94,16 @@ I aim to bridge technology and business goals by creating impactful products tha
 ### 🤖 AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white)
 ![Google Vision](https://img.shields.io/badge/Google_Vision_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-101010?style=for-the-badge&logoColor=white)
+
+### 🕷️ Web Scraping & Data
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -132,7 +141,7 @@ I aim to bridge technology and business goals by creating impactful products tha
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
     </clipboard-copy>
-  </div></div> <br> 
+  </div></div> <br>
 
   ## 🏆 Achievements & Certifications
 
@@ -157,8 +166,41 @@ I aim to bridge technology and business goals by creating impactful products tha
 
 ## 🚀 Featured Projects
 
-<div align="center"><h3>💼 Production Applications</h3></div>
+<div align="center"><h3>🕷️ Web Scraping & B2B Lead Generation</h3></div>
 
+### 🏭 US Pharmacies — LinkedIn Lead Enrichment
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Enrichment-0A66C2?style=for-the-badge&logoColor=white"/>
+</div>
+
+- 🏥 FDA Outsourcing + APC Directory: LinkedIn company pages, decision-maker profiles, job titles, emails, phone numbers
+- 🔐 Session-managed Playwright pipeline with human-like behavior simulation and proxy rotation
+- 📊 Dual-tab structured output: separate FDA Outsourcing and APC Directory prospect sheets
+- 📦 JSON/CSV schema aligned to CRM and outreach tool import formats
+
+---
+
+### 🌐 1,800+ Websites Scraped — Production Portfolio
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+</div>
+
+- 🛡️ Cloudflare, DataDome, Akamai, PerimeterX bypass — custom TLS fingerprint spoofing, no third-party services
+- ⚡ Scrapy + asyncio workers: 40% faster data refresh rates in production
+- 🏭 Industries: real estate (50-state MLS), e-commerce, finance, job boards, social platforms, directories
+- 📦 Output: JSON, CSV, MongoDB, PostgreSQL, AWS S3 — matched to client pipeline requirements
+
+---
+
+<div align="center"><h3>💼 Production Applications</h3></div>
 
 ### 🤖 Ordibl (Replyi) – AI Voice SaaS Platform
 
@@ -234,6 +276,7 @@ I aim to bridge technology and business goals by creating impactful products tha
 - 💳 Stripe credit purchases, coupons, referral earnings & token-based consumption
 
 ---
+
 <br>
 
 ## 💼 Professional Experience
@@ -282,12 +325,12 @@ I aim to bridge technology and business goals by creating impactful products tha
 <div align="center">
   <table>
     <tr>
-      <td align="center">🌐<br/><sub><b>Full Stack<br/>Development</b></sub></td>
-      <td align="center">🤖<br/><sub><b>AI & SaaS<br/>Platforms</b></sub></td>
+      <td align="center">🕷️<br/><sub><b>Web Scraping &<br/>Anti-Bot Bypass</b></sub></td>
+      <td align="center">🎯<br/><sub><b>B2B Lead Gen &<br/>Data Enrichment</b></sub></td>
+      <td align="center">🤖<br/><sub><b>AI Agents &<br/>Automation</b></sub></td>
+      <td align="center">🌐<br/><sub><b>Full Stack<br/>SaaS</b></sub></td>
       <td align="center">📱<br/><sub><b>Mobile<br/>Development</b></sub></td>
       <td align="center">☁️<br/><sub><b>Cloud &<br/>DevOps</b></sub></td>
-      <td align="center">💳<br/><sub><b>Payments &<br/>Billing</b></sub></td>
-      <td align="center">⚡<br/><sub><b>Real-Time<br/>Systems</b></sub></td>
     </tr>
   </table>
 </div>
@@ -298,12 +341,12 @@ I aim to bridge technology and business goals by creating impactful products tha
 <div align="center">
   <table>
     <tr>
-      <td align="center">🚀<br/><sub><b>23+</b><br/>Projects Delivered</sub></td>
+      <td align="center">🕷️<br/><sub><b>1,800+</b><br/>Websites Scraped</sub></td>
+      <td align="center">🚀<br/><sub><b>40+</b><br/>Projects Delivered</sub></td>
       <td align="center">🤖<br/><sub><b>5+</b><br/>AI SaaS Platforms</sub></td>
-      <td align="center">📱<br/><sub><b>4+</b><br/>Mobile Apps</sub></td>
+      <td align="center">📱<br/><sub><b>10+</b><br/>Mobile Apps</sub></td>
       <td align="center">⭐<br/><sub><b>2134</b><br/>CodeChef Rating</sub></td>
       <td align="center">🗓️<br/><sub><b>4+</b><br/>Years Experience</sub></td>
-      <td align="center">🌍<br/><sub><b>3+</b><br/>Countries Served</sub></td>
     </tr>
   </table>
 </div>
