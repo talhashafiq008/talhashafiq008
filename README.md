@@ -16,20 +16,20 @@
 
 ## 💡 About Me
 
-I'm a Full-Stack Engineer with **4+ years of experience** building custom web scrapers, B2B data pipelines, AI-powered applications, and scalable SaaS platforms. From Cloudflare bypass to deployed product — **1,800+ websites scraped in production**.
+I'm a Full-Stack Engineer with **4+ years of experience** building custom web scrapers, B2B data pipelines, AI-powered applications, and scalable SaaS platforms. From Cloudflare bypass to deployed product, **1,800+ websites scraped in production**.
 
 I extract structured data from any website on the internet and build the full-stack product that runs on top of it. Most engineers offer scraping OR development. I deliver both: raw data to deployed product.
 <br><br>
 
 ## 💼 What I Do
 
-- **Web Scraping & Anti-Bot Bypass** — Scrapy, Playwright, Selenium, TLS fingerprinting, Cloudflare · DataDome · Akamai · PerimeterX bypass — no third-party services
-- **B2B Lead Generation & Data Enrichment** — Clay workflows, LinkedIn extraction, Apollo · Prospeo · Hunter pipelines, email verification
-- **Full-Stack Web & Mobile Development** — React.js, Next.js, Node.js, NestJS, React Native, Expo
-- **Scalable SaaS & AI-Powered Platforms** — Multi-tenant systems, AI integrations, subscription billing
-- **AI Agents & Automation** — CrewAI, LangGraph, Claude Agent SDK, MCP services, LangChain pipelines
-- **DevOps & Cloud** — Docker, GitHub Actions, AWS, Redis, PM2, Nginx, CI/CD pipelines
-- **Payments & Billing** — Stripe, Paystack, Authorize.net, Apple Pay, Google Pay
+- **Web Scraping & Anti-Bot Bypass**: Scrapy, Playwright, Selenium, TLS fingerprinting, Cloudflare · DataDome · Akamai · PerimeterX bypass, no third-party services
+- **B2B Lead Generation & Data Enrichment**: Clay workflows, LinkedIn extraction, Apollo · Prospeo · Hunter pipelines, email verification
+- **Full-Stack Web & Mobile Development**: React.js, Next.js, Node.js, NestJS, React Native, Expo
+- **Scalable SaaS & AI-Powered Platforms**: Multi-tenant systems, AI integrations, subscription billing
+- **AI Agents & Automation**: CrewAI, LangGraph, Claude Agent SDK, MCP services, LangChain pipelines
+- **DevOps & Cloud**: Docker, GitHub Actions, AWS, Redis, PM2, Nginx, CI/CD pipelines
+- **Payments & Billing**: Stripe, Paystack, Authorize.net, Apple Pay, Google Pay
 
 <br>
 
