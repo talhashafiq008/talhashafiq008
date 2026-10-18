@@ -274,11 +274,19 @@ I'm a **Senior Software Engineer with 4+ years of experience**. At **BugMonks** 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=talhashafiq008&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com/?user=talhashafiq008&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=talhashafiq008&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=talhashafiq008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
