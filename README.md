@@ -7,150 +7,269 @@
   </picture>
 </p>
 
-
 <h1 align="center">Hello 👋, I'm Talha Shafiq</h1>
-<h3 align="center">🚀 Full-Stack Engineer | Web Scraping & Anti-Bot Bypass | B2B Lead Gen & Data Enrichment | AI Agents & Automation</h3>
-<p align="center">📍 Lahore, Punjab, Pakistan &nbsp;|&nbsp; 📧 talhashafiqch@gmail.com &nbsp;|&nbsp; 📱 +92 307 1601809</p>
+<h3 align="center">🤖 Senior Software Engineer · AI Automation & Web Scraping · Full-Stack · Team Lead</h3>
+<p align="center">📍 Lahore, Pakistan &nbsp;|&nbsp; 📧 talhashafiqch@gmail.com &nbsp;|&nbsp; ⭐ Top Rated on Upwork</p>
 <br>
-
 
 ## 💡 About Me
 
-I'm a Full-Stack Engineer with **4+ years of experience** building custom web scrapers, B2B data pipelines, AI-powered applications, and scalable SaaS platforms. From Cloudflare bypass to deployed product, **1,800+ websites scraped in production**.
+I build **AI automation systems that run on data I extract myself**, and the full-stack products that put both in front of users.
 
-I extract structured data from any website on the internet and build the full-stack product that runs on top of it. Most engineers offer scraping OR development. I deliver both: raw data to deployed product.
+I'm a **Senior Software Engineer with 4+ years of experience**. At **BugMonks** I lead a team of 5 developers and own delivery across AI automation, web scraping and full-stack SaaS. On Upwork I'm **Top Rated with 100% Job Success**.
+
+**40+ projects delivered** across AI automation, full-stack and mobile · **1,800+ production scrapers written**.
 <br><br>
 
 ## 💼 What I Do
 
-- **Web Scraping & Anti-Bot Bypass**: Scrapy, Playwright, Selenium, TLS fingerprinting, Cloudflare · DataDome · Akamai · PerimeterX bypass, no third-party services
-- **B2B Lead Generation & Data Enrichment**: Clay workflows, LinkedIn extraction, Apollo · Prospeo · Hunter pipelines, email verification
-- **Full-Stack Web & Mobile Development**: React.js, Next.js, Node.js, NestJS, React Native, Expo
-- **Scalable SaaS & AI-Powered Platforms**: Multi-tenant systems, AI integrations, subscription billing
-- **AI Agents & Automation**: CrewAI, LangGraph, Claude Agent SDK, MCP services, LangChain pipelines
-- **DevOps & Cloud**: Docker, GitHub Actions, AWS, Redis, PM2, Nginx, CI/CD pipelines
-- **Payments & Billing**: Stripe, Paystack, Authorize.net, Apple Pay, Google Pay
+- 🤖 **AI Automation & Agents:** LangChain, LangGraph, CrewAI and Claude Agent SDK pipelines that scrape → qualify → act; document AI that turns PDFs into structured JSON; n8n + MCP workflows
+- 🕷️ **Web Scraping:** stealth scrapers for JS-heavy and bot-protected sites (Cloudflare, DataDome, Akamai) with Scrapy, Playwright, Selenium and asyncio
+- ⚡ **Full-Stack SaaS:** Next.js, React, Node.js and NestJS; multi-tenant platforms, Stripe billing, real-time features
+- 📱 **Mobile:** cross-platform apps with React Native and Expo
+- ☁️ **Cloud & DevOps:** AWS, Docker, GitHub Actions, Redis, Nginx, PM2
 
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/talhashafiq008/talhashafiq008/blob/main/code.gif" height="320" style="width: 400px; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3 align="left">🔭 Currently</h3>
-<p> - 💼 Working as Software Engineer @ techBean (Australia)</p>
-<p> - 🕷️ Building B2B lead enrichment pipelines and stealth scrapers for pharmaceutical and GTM clients</p>
-<p> - 🤖 Building & shipping AI-powered SaaS platforms with OpenAI, Vapi & ElevenLabs</p>
-<p> - 🏗️ Architecting multi-tenant systems with NestJS, Redis, Bull & event-driven design</p>
+<p> - 💼 Senior Software Engineer @ BugMonks, leading a team of 5 developers</p>
+<p> - 🤖 Building LLM agent pipelines and document AI with LangGraph, CrewAI and Claude</p>
+<p> - 🕷️ Shipping production scrapers and automation for clients on Upwork</p>
+<p> - 🎙️ Building AI voice and SaaS products with Vapi, ElevenLabs, Next.js and NestJS</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma00892831" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/talhashafiq008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-talha-ch" height="30" width="40" /></a>
-<a href="https://www.facebook.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="talha.shafiq.3720" height="30" width="40" /></a>
-<a href="https://instagram.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch._.talha1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="talhashafiqch" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="talhashafiqch" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16414158/talha-shafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-talha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/talhashafiq008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="UPWORK_PROFILE_URL" target="blank"><img align="center" src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=flat&logo=upwork&logoColor=white" alt="Upwork" height="30" /></a>
+<a href="https://twitter.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16414158/talha-shafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
 </p><br>
-
-
 
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎨 Frontend
+### 🤖 AI & Automation
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-5DFECA?style=for-the-badge&logoColor=black)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
+
+### 🕷️ Web Scraping & Data
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logoColor=white)
+
+### 🎨 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### 🗄️ Databases & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🤖 AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white)
-![Google Vision](https://img.shields.io/badge/Google_Vision_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-101010?style=for-the-badge&logoColor=white)
-
-### 🕷️ Web Scraping & Data
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Python](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 💳 Payments & Integrations
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
+## 🚀 Featured Projects
 
- <br>
-<div class="highlight highlight-source-java notranslate position-relative overflow-auto"><pre><span class="pl-k">if</span> (<span class="pl-s1">codeWorking</span>){
-            <span class="pl-k">while</span> (<span class="pl-s1">codeQuality</span> &lt; <span class="pl-s1">perfectCode</span>){
-                <span class="pl-s1">codeQuality</span>++;
-            }
-        }
-<span class="pl-c">// - Talha Shafiq</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="if (codeWorking){
-            while (codeQuality < perfectCode){
-                codeQuality++;
-            }
-        }
-// - Talha Shafiq" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
-    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-    </clipboard-copy>
-  </div></div> <br>
+### 🛋️ Collected — AI Furniture Search Engine *(Upwork client · 5.0 ★)*
 
-  ## 🏆 Achievements & Certifications
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_Scraping-2EAD33?style=for-the-badge"/>
+</div>
 
-- ✅ **React.js Assessment Cleared** — HackerRank
-- ⭐ **Competitive Programming Rating 2134** — CodeChef
-- 📜 Modern JavaScript ES6 — Coursera
-- 📜 React Hooks — LinkedIn Learning
-- 📜 Web Design (HTML, CSS, Bootstrap) — Udemy
-<br> <br> 
+- 🕷️ Python scrapers collect **25 furniture suppliers** every night at 3am into one database
+- 📦 **4,000+ products** indexed so far, heading to 20,000+
+- 💬 Plain-English search: *"walnut nightstand under $2000"* → OpenAI turns it into filters
+- 🔒 Private, password-protected; auto-deploys to a VPS on every GitHub push
+
+---
+
+### 📄 Intelligent PDF Extraction Pipeline
+
+<div align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docling_OCR-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+- 📥 n8n picks up PDFs from Gmail and Google Drive automatically
+- 🔍 Docling OCR rebuilds tables and layouts; Claude extracts **40+ fields per PDF** into schema-aligned JSON
+- ⚡ 4 parallel workers cut a 100+ PDF batch from **6.2 hours to ~1.5 hours**
+
+---
+
+### 🤖 AI Lead Generation Agent
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</div>
+
+- 🔄 Stateful LangGraph workflow: scrape → qualify → personalize → send → track replies
+- 🎯 LLM scores leads against an ideal-customer profile before any outreach
+- 🛑 Human approval checkpoints before emails are sent
+
+---
+
+### 🎙️ Ordibl.ai — Multi-Tenant AI Voice Platform
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+</div>
+
+- 🗣️ Inbound and outbound AI call agents with Vapi + ElevenLabs, Twilio numbers and batch campaigns
+- 🔗 CRM sync with HubSpot, Salesforce, Zendesk and Pipedrive; knowledge-base uploads to S3
+- ⚙️ Async processing with Redis + Bull; wallet and subscription billing with Stripe & Paystack
+
+---
+
+### 🕸️ 1,800+ Production Scrapers
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</div>
+
+- 🌐 Scrapers across e-commerce, real estate, finance, job boards and directories, including **50-state US real-estate data**
+- 🛡️ Handles Cloudflare, DataDome, Akamai and PerimeterX without third-party bypass services
+- 📈 Daily price tracking across **80+ retail sites** with US/EU/UK pricing and multi-currency normalization
+
+---
+
+### 📧 Cheap Verifier — Email Verification SaaS
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+</div>
+
+- 📂 Bulk CSV/Excel or API-based verification: MX, SMTP and catch-all checks
+- ⚡ Node + Python worker fleet on Bull/Redis with real-time progress over Socket.IO
+- 💳 Stripe credit purchases, API-key developer access and referral earnings
+
+---
+<br>
+
+## 💼 Professional Experience
+
+### 🏢 Senior Software Engineer — BugMonks *(Lahore)*
+**03/2025 – Present**
+
+- 👥 Lead a team of 5 developers: sprint planning, architecture, code reviews and client communication
+- 🤖 Built LLM agent pipelines (LangGraph, CrewAI, Claude Agent SDK) and a document AI pipeline (6.2 h → ~1.5 h per 100+ PDFs)
+- 🕷️ Built production scrapers, including 50-state US real-estate data and 80+ site price tracking
+- 🎙️ Shipped AI SaaS products end-to-end: Ordibl.ai, AskArion, AI Stylist, LifeStories
+
+### 🌍 AI Automation & Web Scraping Engineer — Upwork *(Freelance, Remote)*
+**05/2026 – Present**
+
+- ⭐ Top Rated with 100% Job Success
+- 🛋️ Built Collected, a private AI furniture search engine across 25 suppliers (5.0 client review)
+
+### 🏢 Software Engineer — techBean *(Remote – Australia)*
+**03/2025 – 01/2026**
+
+- 🚀 Built full-stack apps for Australian clients with React.js, Next.js, Node.js and NestJS
+- 🔐 Built secure REST APIs integrating Stripe, FedEx and Sanity CMS
+- 🗄️ Designed schemas and queries across MongoDB, PostgreSQL and MySQL
+
+### 🏢 Full-Stack Developer — Verdant Soft *(Lahore)*
+**12/2024 – 02/2025**
+
+- 🏗️ Architected a real-time bidding platform with NestJS, WebSockets, PostgreSQL and Prisma
+- 🔒 Optimistic locking for safe concurrent bid processing
+- 🏥 Built a healthcare management system with scheduling and Stripe subscriptions
+
+### 🏢 Associate Software Engineer — DEVWOLFZ LLC *(Lahore)*
+**06/2024 – 11/2024**
+
+- 🌐 Built full-stack web apps and JWT-secured REST APIs with React.js, Node.js and MongoDB
+
+### 🏢 MERN Stack Developer — Ezeelogix *(Lahore)*
+**02/2023 – 03/2024**
+
+- 🛒 Built a US tire & wheel e-commerce platform with Stripe, Affirm, Snap Finance, Pay Tomorrow and FedEx
+- 📱 Built and published React Native apps for AI image generation and yoga/meditation
+
+---
+
+## 🏆 Achievements & Certifications
+
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🍃 **MongoDB Developer Certification**
+- ⭐ **Top Rated on Upwork** — 100% Job Success
+- 🧠 **Competitive Programming Rating 2134** — CodeChef
+- ✅ **React (Basic)** — HackerRank
+- 📜 React Hooks — LinkedIn Learning · Modern JavaScript ES6 — Coursera
+<br><br>
+
+## 📈 Impact Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🚀<br/><sub><b>40+</b><br/>Projects Delivered</sub></td>
+      <td align="center">🕷️<br/><sub><b>1,800+</b><br/>Production Scrapers</sub></td>
+      <td align="center">👥<br/><sub><b>5</b><br/>Developers Led</sub></td>
+      <td align="center">⭐<br/><sub><b>Top Rated</b><br/>on Upwork</sub></td>
+      <td align="center">🧠<br/><sub><b>2134</b><br/>CodeChef Rating</sub></td>
+      <td align="center">🗓️<br/><sub><b>4+</b><br/>Years Experience</sub></td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -164,191 +283,4 @@ I extract structured data from any website on the internet and build the full-st
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center"><h3>🕷️ Web Scraping & B2B Lead Generation</h3></div>
-
-### 🏭 US Pharmacies — LinkedIn Lead Enrichment
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Enrichment-0A66C2?style=for-the-badge&logoColor=white"/>
-</div>
-
-- 🏥 FDA Outsourcing + APC Directory: LinkedIn company pages, decision-maker profiles, job titles, emails, phone numbers
-- 🔐 Session-managed Playwright pipeline with human-like behavior simulation and proxy rotation
-- 📊 Dual-tab structured output: separate FDA Outsourcing and APC Directory prospect sheets
-- 📦 JSON/CSV schema aligned to CRM and outreach tool import formats
-
----
-
-### 🌐 1,800+ Websites Scraped — Production Portfolio
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-</div>
-
-- 🛡️ Cloudflare, DataDome, Akamai, PerimeterX bypass — custom TLS fingerprint spoofing, no third-party services
-- ⚡ Scrapy + asyncio workers: 40% faster data refresh rates in production
-- 🏭 Industries: real estate (50-state MLS), e-commerce, finance, job boards, social platforms, directories
-- 📦 Output: JSON, CSV, MongoDB, PostgreSQL, AWS S3 — matched to client pipeline requirements
-
----
-
-<div align="center"><h3>💼 Production Applications</h3></div>
-
-### 🤖 Ordibl (Replyi) – AI Voice SaaS Platform
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-</div>
-
-- 🎙️ Multi-tenant AI voice platform with inbound & outbound call agents via Vapi
-- ⚡ Async processing with Redis + Bull for call logs, billing & event handling
-- 💳 Wallet + subscription billing with Stripe & Paystack (webhook-driven)
-- 🔗 CRM OAuth integrations & knowledge base upload system via AWS S3
-- 🚀 Deployed via GitHub Actions, PM2, and Nginx on production server
-
----
-
-### 🛒 Multi-Store E-Commerce Platform – Domain-Based SaaS
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white"/>
-</div>
-
-- 🏪 Domain-driven multi-store architecture — each domain dynamically resolves to a specific store
-- 🛍️ Full checkout with shipping/tax calculation and Stripe webhook confirmation
-- 🧾 Admin panel with POS, SEO tools, shipping zones, coupon engine & catalog management
-- 🌍 Multi-language support, wallet, refund & commission system
-- 🔐 JWT-based auth with protected routes and guest checkout logic
-
----
-
-### ⭐ AskArion – AI Astrology SaaS Platform
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-</div>
-
-- 🔮 AI-powered natal chart + real-time transit interpretation
-- 💰 Freemium credit system with Stripe subscription tiers & webhook sync
-- 🔒 Supabase backend with Row-Level Security and Edge Functions
-- 🤝 Relationship compatibility module with AI classification & email invites
-- ⚡ Optimized daily forecast generation with caching to reduce API costs
-
----
-
-### 📧 Cheap Verifier – Email Verification SaaS
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-</div>
-
-- 📂 CSV/Excel upload or API-based validation: format, MX, SMTP, catch-all & premium checks
-- ⚡ High-concurrency validation engine using dedicated service with Bull + Redis
-- 📊 Multi-role system: user dashboard, admin panel & customer-service agent chat
-- 🔄 Real-time task progress via Socket.IO with file storage on AWS S3
-- 💳 Stripe credit purchases, coupons, referral earnings & token-based consumption
-
----
-
-<br>
-
-## 💼 Professional Experience
-
-### 🏢 Software Engineer — techBean *(Remote – Australia)*
-**03/2025 – Present**
-
-- 🚀 Design and develop scalable full-stack apps using React.js, Next.js, Node.js & NestJS
-- 🔐 Build secure REST APIs with authentication, RBAC & third-party integrations
-- ⚡ Optimize database queries and API performance across PostgreSQL & MongoDB
-- 🧩 Implement reusable UI component libraries for scalable frontend architecture
-- 🤝 Collaborate in agile sprints for planning, feature delivery & code reviews
-
-
-### 🏢 Associate Software Engineer — DEVWOLFZ LLC *(Lahore)*
-**03/2025 – 07/2025**
-
-- 🌐 Developed full-stack web applications using React.js, Node.js & MongoDB
-- 🔐 Built and maintained secure REST APIs with JWT authentication
-- ⚡ Improved application performance via debugging, refactoring & query optimization
-- 🤝 Collaborated with product and design teams for feature implementation & scalable architecture
-- 🚀 Deployed production-ready builds ensuring system reliability
-
-
-### 🏢 Full-Stack Developer — Verdant Soft *(Lahore)*
-**11/2024 – 02/2025**
-
-- 🏗️ Architected Real-Time Auction Platform using NestJS, WebSockets, PostgreSQL & Prisma ORM
-- 🔒 Implemented optimistic locking for safe concurrent bid processing
-- 🏥 Built Healthcare Management System with appointment scheduling & Stripe subscriptions
-- 📊 Enhanced dashboards with Vue.js by integrating backend APIs
-
-
-### 🏢 Full-Stack MERN Developer — Ezeelogix *(Lahore)*
-**07/2023 – 11/2024**
-
-- 🛒 Developed production-level eCommerce platform for U.S.-based tire & wheel businesses
-- 💳 Integrated Stripe, Snap, Affirm payment gateways and FedEx shipping APIs
-- 📱 Built cross-platform mobile applications using React Native & Expo
-- ☁️ Optimized AWS deployment pipeline and improved SEO performance
-
----
-
-## 🎯 Core Competencies
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🕷️<br/><sub><b>Web Scraping &<br/>Anti-Bot Bypass</b></sub></td>
-      <td align="center">🎯<br/><sub><b>B2B Lead Gen &<br/>Data Enrichment</b></sub></td>
-      <td align="center">🤖<br/><sub><b>AI Agents &<br/>Automation</b></sub></td>
-      <td align="center">🌐<br/><sub><b>Full Stack<br/>SaaS</b></sub></td>
-      <td align="center">📱<br/><sub><b>Mobile<br/>Development</b></sub></td>
-      <td align="center">☁️<br/><sub><b>Cloud &<br/>DevOps</b></sub></td>
-    </tr>
-  </table>
-</div>
-
-
-## 📈 Impact Metrics
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🕷️<br/><sub><b>1,800+</b><br/>Websites Scraped</sub></td>
-      <td align="center">🚀<br/><sub><b>40+</b><br/>Projects Delivered</sub></td>
-      <td align="center">🤖<br/><sub><b>5+</b><br/>AI SaaS Platforms</sub></td>
-      <td align="center">📱<br/><sub><b>10+</b><br/>Mobile Apps</sub></td>
-      <td align="center">⭐<br/><sub><b>2134</b><br/>CodeChef Rating</sub></td>
-      <td align="center">🗓️<br/><sub><b>4+</b><br/>Years Experience</sub></td>
-    </tr>
-  </table>
-</div>
-
-
+<p align="center"><i>if (codeWorking) { while (codeQuality &lt; perfectCode) { codeQuality++; } } — Talha Shafiq</i></p>
