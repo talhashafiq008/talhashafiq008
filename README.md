@@ -42,7 +42,7 @@ I'm a **Senior Software Engineer with 4+ years of experience**. At **BugMonks** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/talhashafiq008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="UPWORK_PROFILE_URL" target="blank"><img align="center" src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=flat&logo=upwork&logoColor=white" alt="Upwork" height="30" /></a>
+<a href="https://www.upwork.com/freelancers/~01ae70814a5813457f" target="blank"><img align="center" src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=flat&logo=upwork&logoColor=white" alt="Upwork" height="30" /></a>
 <a href="https://twitter.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/talhashafiq008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
