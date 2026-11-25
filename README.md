@@ -18,26 +18,25 @@
 
 <h1 align="center">Hello 👋, I'm Talha Shafiq</h1>
 <h3 align="center">
-  🤖 Senior Software Engineer · AI Automation & Web Scraping · Full-Stack · Team
-  Lead
+  🤖 Lead AI Full-Stack Engineer · Next.js · NestJS · Python · LLM Agents
 </h3>
 <p align="center">
-  📍 Lahore, Pakistan &nbsp;|&nbsp; 📧 talhashafiqch@gmail.com &nbsp;|&nbsp; ⭐
-  Top Rated on Upwork
+  📍 Lahore, Pakistan &nbsp;|&nbsp; 📧 talhashafiqch@gmail.com &nbsp;|&nbsp; 🚀
+  40+ Projects Delivered
 </p>
 <br />
 
 ## 💡 About Me
 
-I build **AI automation systems that run on data I extract myself**, and the full-stack products that put both in front of users. I'm a **Senior Software Engineer with 4+ years of experience**. At **BugMonks** I lead a team of 5 developers and own delivery across AI automation, web scraping and full-stack SaaS. On Upwork I'm **Top Rated with 100% Job Success**. **40+ projects delivered** across AI automation, full-stack and mobile · **1,800+ production scrapers written**.
+I'm an **AI Full-Stack Engineer with 4 years of experience** building AI-powered products end to end: the **LLM agents and automation** behind them, and the **full-stack SaaS** that puts them in front of users. At **BugMonks** I was promoted to **Lead AI Full-Stack Engineer** in Sep 2025, where I build multi-tenant AI platforms and lead a team of 5 developers. **40+ projects delivered** across AI, full-stack and mobile · **1,800+ production scrapers written**.
 
 <br /><br />
 
 ## 💼 What I Do
 
-- 🤖 **AI Automation & Agents:** LangChain, LangGraph, CrewAI and Claude Agent SDK pipelines that scrape → qualify → act; document AI that turns PDFs into structured JSON; n8n + MCP workflows
-- 🕷️ **Web Scraping:** stealth scrapers for JS-heavy and bot-protected sites (Cloudflare, DataDome, Akamai) with Scrapy, Playwright, Selenium and asyncio
+- 🤖 **AI Engineering & Agents:** LLM features inside production products; LangChain, LangGraph, CrewAI and Claude Agent SDK pipelines; document AI that turns PDFs into structured JSON; n8n + MCP workflows
 - ⚡ **Full-Stack SaaS:** Next.js, React, Node.js and NestJS; multi-tenant platforms, Stripe billing, real-time features
+- 🕷️ **Data & Web Scraping:** production scrapers for JS-heavy and bot-protected sites with Scrapy, Playwright, Selenium and asyncio
 - 📱 **Mobile:** cross-platform apps with React Native and Expo
 - ☁️ **Cloud & DevOps:** AWS, Docker, GitHub Actions, Redis, Nginx, PM2
 
@@ -53,16 +52,16 @@ I build **AI automation systems that run on data I extract myself**, and the ful
 />
 
 <h3 align="left">🔭 Currently</h3>
-<p>- 💼 Senior Software Engineer @ BugMonks, leading a team of 5 developers</p>
-<p>
-  - 🤖 Building LLM agent pipelines and document AI with LangGraph, CrewAI and
-  Claude
-</p>
-<p>- 🕷️ Shipping production scrapers and automation for clients on Upwork</p>
+<p>- 💼 Lead AI Full-Stack Engineer @ BugMonks, leading a team of 5 developers</p>
 <p>
   - 🎙️ Building AI voice and SaaS products with Vapi, ElevenLabs, Next.js and
   NestJS
 </p>
+<p>
+  - 🤖 Building LLM agent pipelines and document AI with LangGraph, CrewAI and
+  Claude
+</p>
+<p>- 🔍 Open to AI Full-Stack Engineer roles</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -73,15 +72,6 @@ I build **AI automation systems that run on data I extract myself**, and the ful
       alt="LinkedIn"
       height="30"
       width="40"
-  /></a>
-  <a
-    href="https://www.upwork.com/freelancers/~01ae70814a5813457f"
-    target="blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=flat&logo=upwork&logoColor=white"
-      alt="Upwork"
-      height="30"
   /></a>
   <a href="https://twitter.com/talhashafiq008" target="blank"
     ><img
@@ -191,9 +181,35 @@ I build **AI automation systems that run on data I extract myself**, and the ful
 
 ## 🚀 Featured Projects
 
-### 🛋️ Collected — AI Furniture Search Engine
+### 🎙️ Ordibl.ai: Multi-Tenant AI Voice Platform
 
-*(Upwork client · 5.0 ★)*
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"
+  />
+</div>
+
+- 🗣️ Inbound and outbound AI call agents with Vapi + ElevenLabs, Twilio numbers and batch campaigns
+- 🔗 CRM sync with HubSpot, Salesforce, Zendesk and Pipedrive; knowledge-base uploads to S3
+- ⚙️ Async processing with Redis + Bull; wallet and subscription billing with Stripe & Paystack
+
+---
+
+### 🛋️ Collected: AI Furniture Search Engine
+
+*(Built for an interior-design firm)*
 
 <div align="center">
   <img
@@ -277,52 +293,6 @@ I build **AI automation systems that run on data I extract myself**, and the ful
 
 ---
 
-### 🎙️ Ordibl.ai — Multi-Tenant AI Voice Platform
-
-<div align="center">
-  <img
-    src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"
-  />
-</div>
-
-- 🗣️ Inbound and outbound AI call agents with Vapi + ElevenLabs, Twilio numbers and batch campaigns
-- 🔗 CRM sync with HubSpot, Salesforce, Zendesk and Pipedrive; knowledge-base uploads to S3
-- ⚙️ Async processing with Redis + Bull; wallet and subscription billing with Stripe & Paystack
-
----
-
-### 🕸️ 1,800+ Production Scrapers
-
-<div align="center">
-  <img
-    src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"
-  />
-</div>
-
-- 🌐 Scrapers across e-commerce, real estate, finance, job boards and directories, including **50-state US real-estate data**
-- 🛡️ Handles Cloudflare, DataDome, Akamai and PerimeterX without third-party bypass services
-- 📈 Daily price tracking across **80+ retail sites** with US/EU/UK pricing and multi-currency normalization
-
----
-
 ### 🏥 Medipyxis: Wound-Care Practice Management System
 
 <div align="center">
@@ -347,7 +317,7 @@ I build **AI automation systems that run on data I extract myself**, and the ful
 
 ---
 
-### 📧 Cheap Verifier — Email Verification SaaS
+### 📧 Cheap Verifier: Email Verification SaaS
 
 <div align="center">
   <img
@@ -370,6 +340,26 @@ I build **AI automation systems that run on data I extract myself**, and the ful
 
 ---
 
+### 🕸️ 1,800+ Production Scrapers
+
+<div align="center">
+  <img
+    src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"
+  />
+</div>
+
+- 🌐 Scrapers across e-commerce, real estate, finance, job boards and directories, including **50-state US real-estate data**
+- 🛡️ Handles Cloudflare, DataDome, Akamai and PerimeterX without third-party bypass services
+- 📈 Daily price tracking across **80+ retail sites** with US/EU/UK pricing and multi-currency normalization
+
+---
+
 ### 🧰 More Projects
 
 | Project | What it is | Stack |
@@ -386,61 +376,59 @@ I build **AI automation systems that run on data I extract myself**, and the ful
 
 ## 💼 Professional Experience
 
-### 🏢 Senior Software Engineer — BugMonks *(Lahore)*
+### 🏢 Lead AI Full-Stack Engineer | BugMonks *(Lahore)*
 
-**03/2025 – Present**
+**Sep 2025 - Present** *(promoted)*
 
-- 👥 Lead a team of 5 developers: sprint planning, architecture, code reviews and client communication
+- 🎙️ Built AI SaaS products end to end: Ordibl.ai (multi-tenant AI voice platform), AskArion, AI Stylist, LifeStories
 - 🤖 Built LLM agent pipelines (LangGraph, CrewAI, Claude Agent SDK) and a document AI pipeline (6.2 h → ~1.5 h per 100+ PDFs)
+- 👥 Lead a team of 5 developers: architecture, code reviews, mentoring, sprint planning and client communication
+
+### 🏢 Senior Software Engineer | BugMonks *(Lahore)*
+
+**Mar 2025 - Aug 2025**
+
+- ⚡ Built full-stack features and AI integrations for client SaaS products with Next.js, NestJS, Node.js and MongoDB
 - 🕷️ Built production scrapers, including 50-state US real-estate data and 80+ site price tracking
-- 🎙️ Shipped AI SaaS products end-to-end: Ordibl.ai, AskArion, AI Stylist, LifeStories
 
-### 🌍 AI Automation & Web Scraping Engineer — Upwork *(Freelance, Remote)*
+### 🏢 Software Engineer | techBean *(Remote, Australia)*
 
-**05/2026 – Present**
-
-- ⭐ Top Rated with 100% Job Success
-- 🛋️ Built Collected, a private AI furniture search engine across 25 suppliers (5.0 client review)
-
-### 🏢 Software Engineer — techBean *(Remote – Australia)*
-
-**03/2025 – 01/2026**
+**Mar 2025 - Jan 2026**
 
 - 🚀 Built full-stack apps for Australian clients with React.js, Next.js, Node.js and NestJS
 - 🔐 Built secure REST APIs integrating Stripe, FedEx and Sanity CMS
 - 🗄️ Designed schemas and queries across MongoDB, PostgreSQL and MySQL
 
-### 🏢 Full-Stack Developer — Verdant Soft *(Lahore)*
+### 🏢 Full-Stack Developer | Verdant Soft *(Lahore)*
 
-**12/2024 – 02/2025**
+**Dec 2024 - Feb 2025**
 
 - 🏗️ Architected a real-time bidding platform with NestJS, WebSockets, PostgreSQL and Prisma
 - 🔒 Optimistic locking for safe concurrent bid processing
 - 🏥 Built a healthcare management system with scheduling and Stripe subscriptions
 
-### 🏢 Associate Software Engineer — DEVWOLFZ LLC *(Lahore)*
+### 🏢 Associate Software Engineer | DEVWOLFZ LLC *(Lahore)*
 
-**06/2024 – 11/2024**
+**Jun 2024 - Nov 2024**
 
 - 🌐 Built full-stack web apps and JWT-secured REST APIs with React.js, Node.js and MongoDB
 
-### 🏢 MERN Stack Developer — Ezeelogix *(Lahore)*
+### 🏢 MERN Stack Developer | Ezeelogix *(Lahore)*
 
-**02/2023 – 03/2024**
+**Feb 2023 - Mar 2024**
 
-- 🛒 Built a US tire & wheel e-commerce platform with Stripe, Affirm, Snap Finance, Pay Tomorrow and FedEx
+- 🛒 Built Sky Tire, a US tire & wheel e-commerce platform with Stripe, Affirm, Snap Finance, Pay Tomorrow and FedEx
 - 📱 Built and published React Native apps for AI image generation and yoga/meditation
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- ☁️ **AWS Certified Solutions Architect – Associate**
+- ☁️ **AWS Certified Solutions Architect - Associate**
 - 🍃 **MongoDB Developer Certification**
-- ⭐ **Top Rated on Upwork** — 100% Job Success
-- 🧠 **Competitive Programming Rating 2134** — CodeChef
-- ✅ **React (Basic)** — HackerRank
-- 📜 React Hooks — LinkedIn Learning · Modern JavaScript ES6 — Coursera
+- 🧠 **Competitive Programming Rating 2134** | CodeChef
+- ✅ **React (Basic)** | HackerRank
+- 📜 React Hooks | LinkedIn Learning · Modern JavaScript ES6 | Coursera
 
 <br /><br />
 
@@ -459,13 +447,10 @@ I build **AI automation systems that run on data I extract myself**, and the ful
         👥<br /><sub><b>5</b><br />Developers Led</sub>
       </td>
       <td align="center">
-        ⭐<br /><sub><b>Top Rated</b><br />on Upwork</sub>
-      </td>
-      <td align="center">
         🧠<br /><sub><b>2134</b><br />CodeChef Rating</sub>
       </td>
       <td align="center">
-        🗓️<br /><sub><b>4+</b><br />Years Experience</sub>
+        🗓️<br /><sub><b>4</b><br />Years Experience</sub>
       </td>
     </tr>
   </table>
@@ -494,6 +479,6 @@ I build **AI automation systems that run on data I extract myself**, and the ful
 <p align="center">
   <i
     >if (codeWorking) { while (codeQuality &lt; perfectCode) { codeQuality++; }
-    } — Talha Shafiq</i
+    } // Talha Shafiq</i
   >
 </p>
