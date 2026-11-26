@@ -393,7 +393,7 @@ I'm an **AI Full-Stack Engineer with 4 years of experience** building AI-powered
 
 ### 🏢 Software Engineer | techBean *(Remote, Australia)*
 
-**Mar 2025 - Jan 2026**
+**Mar 2025 - Jan 2026** · a BugMonks group company
 
 - 🚀 Built full-stack apps for Australian clients with React.js, Next.js, Node.js and NestJS
 - 🔐 Built secure REST APIs integrating Stripe, FedEx and Sanity CMS
